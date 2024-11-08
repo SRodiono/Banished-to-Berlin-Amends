@@ -495,6 +495,11 @@
       <name>Horizon-Flynn Defense-Com Commlink Holdout</name>
       <damage>9P</damage>
     </weapon>
+	<weapon>
+      <name>Kanonenschlag</name>
+      <damage>9P</damage>
+      <ap>0</ap>
+    </weapon>
     <weapon>
       <name>Krime Vester</name>
       <damage>9P</damage>
@@ -640,8 +645,8 @@
     </weapon>
     <weapon>
       <name>Ares Viper Slivergun</name>
-      <damage>9P</damage>
-      <ap>-1</ap>
+      <damage>12P</damage>
+      <ap>+4</ap>
     </weapon>
     <weapon>
       <name>Browning Phantom</name>
@@ -677,6 +682,10 @@
     </weapon>
 	<weapon>
       <name>Glock-Swarovski Adlerauge</name>
+      <damage>10P</damage>
+    </weapon>
+	<weapon>
+      <name>HK Urban Assassin</name>
       <damage>10P</damage>
     </weapon>
     <weapon>
@@ -1127,6 +1136,10 @@
     </weapon>
     <weapon>
       <name>Auto-Assault 16</name>
+      <damage>12P</damage>
+    </weapon>
+	<weapon>
+      <name>Donnerbüchse</name>
       <damage>12P</damage>
     </weapon>
     <weapon>

@@ -575,5 +575,43 @@
 <source>SR5</source>
 <page>5</page>
 </accessory>
+<accessory>
+<id>a40ffe82-419d-4222-bba8-fe0f9bff7083</id>
+<name>Gunmount Shield</name>
+<mount />
+<avail>0</avail>
+<cost>0</cost>
+<source>SR5</source>
+<page>5</page>
+<accuracy>-1</accuracy>
+<rating>0</rating>
+<required>
+    <weapondetails>
+      <OR>
+<category>Assault Rifles</category>
+<category>Carbines</category>
+<category>Shotguns</category>
+<category>Sporting Rifles</category>
+<category>Submachine Guns</category>
+<category>Tasers</category>
+  </OR>
+    </weapondetails>
+</required>
+<forbidden>
+    <weapondetails>
+      <OR>
+<accessory>Stock Removal</accessory>
+<accessory>Sawed Off/Shortbarrel</accessory>
+<accessory>Sawed Off/Shortbarrel and Stock Removal</accessory>
+<accessory>Gyro Mount</accessory>
+        <name>HK Urban Combat</name>
+        <name>HK Urban Fighter</name>
+      </OR>
+    </weapondetails>
+</forbidden>
+<rc>3</rc>
+<rcdeployable>True</rcdeployable>
+<rcgroup>1</rcgroup>
+</accessory>
 </accessories>
 </chummer>

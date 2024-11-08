@@ -259,5 +259,17 @@
       <page>5</page>
       <hide />
     </mod>
+	<mod>
+      <id>06d543dd-5df9-4002-89bf-593e4c280137</id>
+      <name>Gunmount Shield</name>
+      <category>General</category>
+      <armor>0</armor>
+      <maxrating>1</maxrating>
+      <armorcapacity>[2]</armorcapacity>
+      <avail>+2R</avail>
+      <cost>200</cost>
+      <source>SR5</source>
+      <page>5</page>
+    </mod>
   </mods>
 </chummer>
