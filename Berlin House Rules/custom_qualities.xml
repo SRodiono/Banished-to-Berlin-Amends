@@ -1158,6 +1158,22 @@
 		</required>	  
     <page>5</page>
 </quality>
+
+<!-- Technomancer Mastery Qualities -->
+<quality>
+	<id>04b2a0e7-b704-4b57-960f-8ef4afe9e6ab</id>
+	<name>Machine-Soul Integration</name>
+	<karma>15</karma>
+	<category>Positive</category>
+	<required>
+        <oneof>
+          <quality>Resonant Stream: Machinist</quality>
+        </oneof>
+      </required>
+	  <doublecareer>False</doublecareer>
+	  <source>SR5</source>
+	  <page>5</page>
+</quality>
 <!-- Mundane Metagenic Positive -->
 
     <quality>

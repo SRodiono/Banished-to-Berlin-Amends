@@ -176,7 +176,7 @@
 <damage>-1</damage>
 <damagetype>P(f)</damagetype>
 </weaponbonus>
-<ammoforweapontype>shotgun</ammoforweapontype>
+<ammoforweapontype>gun</ammoforweapontype>
 </gear>
 <gear>
 <id>e5cc8543-a57b-4f2d-9ce1-5170bd836d02</id>

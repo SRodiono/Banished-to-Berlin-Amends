@@ -891,7 +891,8 @@
       <ap>-1</ap>
     </weapon>
     <weapon>
-      <name>Renraku/Ingram Supermach 200</name>
+	  <id>93190477-d1f9-45d0-bee9-9f9bc9a29638</id>
+      <name>Ingram Supermach 200</name>
       <damage>9P</damage>
       <ap>-9</ap>
     </weapon>

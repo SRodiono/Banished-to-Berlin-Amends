@@ -32,5 +32,123 @@
       </metavariants>
     </metatype>
     <!-- End Region -->
-  </metatypes>
+    <!-- Region Metasapient -->
+    <metatype>
+      <name>A.I.</name>
+		<qualityrestriction amendoperation="replace">
+			<positive>
+				<quality>Animal Empathy</quality>
+				<quality>Aptitude</quality>
+				<quality>Brand Loyalty (Manufacturer)</quality>
+				<quality>Brand Loyalty (Product)</quality>
+				<quality>Bilingual</quality>
+				<quality>Chatty</quality>
+				<quality>Codeslinger</quality>
+				<quality>College Education</quality>
+				<quality>Data Anomaly</quality>
+				<quality>Designer</quality>
+				<quality>Exceptional Entity</quality>
+				<quality>Fade to Black</quality>
+				<quality>Fame: Local</quality>
+				<quality>Fame: National</quality>
+				<quality>Fame: Megacorporate</quality>
+				<quality>Fame: Global</quality>
+				<quality>First Impression</quality>
+				<quality>Fractal Punch</quality>
+				<quality>Friends in High Places</quality>
+				<quality>Gearhead</quality>
+				<quality>Gifted Healer</quality>
+				<quality>Go Big or Go Home</quality>
+				<quality>Golden Screwdriver</quality>
+				<quality>Guts</quality>
+				<quality>Hello World!</quality>
+				<quality>High Pain Tolerance</quality>
+				<quality>Home Ground</quality>
+				<quality>I C U</quality>
+				<quality>Indomitable (Mental)</quality>
+				<quality>Indomitable (Physical)</quality>
+				<quality>Indomitable (Social)</quality>
+				<quality>Inherent Program</quality>
+				<quality>Improved Restoration</quality>
+				<quality>Inspired</quality>
+				<quality>Juryrigger</quality>
+				<quality>Legendary Rep</quality>
+				<quality>Linguist</quality>
+				<quality>Low Profile</quality>
+				<quality>Lucky</quality>
+				<quality>Multiprocessing</quality>
+				<quality>Munge</quality>
+				<quality>Ninja Vanish</quality>
+				<quality>Overclocker</quality>
+				<quality>Perceptive</quality>
+				<quality>Photographic Memory</quality>
+				<quality>Pilot Origins</quality>
+				<quality>Prime Datahaven Membership</quality>
+				<quality>Quick Healer</quality>
+				<quality>Redundancy</quality>
+				<quality>Restricted Gear</quality>
+				<quality>Sapper</quality>
+				<quality>Sensor Upgrade</quality>
+				<quality>Sense of Direction</quality>
+				<quality>Sensei</quality>
+				<quality>Sharpshooter</quality>
+				<quality>Snooper</quality>
+				<quality>Solid Rep</quality>
+				<quality>Speed Reading</quality>
+				<quality>Strive For Perfection</quality>
+				<quality>Steely Eyed Wheelman</quality>
+				<quality>Virtual Stability</quality>
+				<quality>Trustworthy</quality>
+				<quality>Vehicle Empathy</quality>
+				<quality>Technical School Education</quality>
+			</positive>
+			<negative>
+				<quality>Bad Luck</quality>
+				<quality>Bad Rep</quality>
+				<quality>Code of Honor</quality>
+				<quality>Code of Honor: Like a Boss</quality>
+				<quality>Code of Honor: Avenging Angel</quality>
+				<quality>Codeblock</quality>
+				<quality>Combat Paralysis</quality>
+				<quality>Corrupter</quality>
+				<quality>Curiosity Killed the Cat</quality>
+				<quality>Data Liberator</quality>
+				<quality>Day Job (10 hrs)</quality>
+				<quality>Day Job (20 hrs)</quality>
+				<quality>Day Job (40 hrs)</quality>
+				<quality>Did You Just Call Me Dumb?</quality>
+				<quality>Distinctive Style</quality>
+				<quality>Driven</quality>
+				<quality>Easily Exploitable</quality>
+				<quality>Fragmentation</quality>
+				<quality>Incompetent</quality>
+				<quality>Loss of Confidence</quality>
+				<quality>Low Pain Tolerance</quality>
+				<quality>Pacifist I</quality>
+				<quality>Pacifist II</quality>
+				<quality>Persnickety Renter</quality>
+				<quality>Prank Warrior</quality>
+				<quality>Prejudiced (Common, Biased)</quality>
+				<quality>Prejudiced (Common, Outspoken)</quality>
+				<quality>Prejudiced (Common, Radical)</quality>
+				<quality>Prejudiced (Specific, Biased)</quality>
+				<quality>Prejudiced (Specific, Outspoken)</quality>
+				<quality>Prejudiced (Specific, Radical)</quality>
+				<quality>Real World Naiveté</quality>
+				<quality>Records on File</quality>
+				<quality>Signature</quality>
+				<quality>SINner (Corporate Limited)</quality>
+				<quality>SINner (Corporate)</quality>
+				<quality>SINner (Criminal)</quality>
+				<quality>SINner (National)</quality>
+				<quality>Uncouth</quality>
+				<quality>Uneducated</quality>
+				<quality>Vendetta</quality>
+				<quality>Wanted</quality>
+				<quality>Wanted by GOD</quality>
+			</negative>
+		</qualityrestriction>
+    </metatype>
+    <!--  End Region  -->
+   </metatypes>
 </chummer>

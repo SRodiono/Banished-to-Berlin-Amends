@@ -178,10 +178,6 @@
       <hide />
     </quality>
     <quality>
-      <name>Dark Ally</name>
-      <hide />
-    </quality>
-    <quality>
       <name>Erased</name>
       <hide />
     </quality>
@@ -298,31 +294,7 @@
     <!-- End Region -->
     <!-- Region Banned Negative Qualities -->
     <quality>
-      <name>Groveler</name>
-      <hide />
-    </quality>
-    <quality>
-      <name>Bi-polar</name>
-      <hide />
-    </quality>
-    <quality>
-      <name>Borrowed Time</name>
-      <hide />
-    </quality>
-    <quality>
-      <name>Carrier (HMHVV Strain II)</name>
-      <hide />
-    </quality>
-    <quality>
-      <name>Carrier (HMHVV Strain III)</name>
-      <hide />
-    </quality>
-    <quality>
       <name>Code of Honor: Black Hat</name>
-      <hide />
-    </quality>
-    <quality>
-      <name>Consummate Professional</name>
       <hide />
     </quality>
     <quality>
@@ -331,10 +303,6 @@
     </quality>
     <quality>
       <name>Amnesia (Surface Deletion)</name>
-      <hide />
-    </quality>
-    <quality>
-      <name>Dead Emotion</name>
       <hide />
     </quality>
     <quality>
@@ -347,10 +315,6 @@
     </quality>
     <quality>
       <name>Echo Chamber</name>
-      <hide />
-    </quality>
-    <quality>
-      <name>Faceless</name>
       <hide />
     </quality>
     <quality>
@@ -379,10 +343,6 @@
     </quality>
     <quality>
       <name>Pregnant</name>
-      <hide />
-    </quality>
-    <quality>
-      <name>Quadriplegic</name>
       <hide />
     </quality>
     <quality>

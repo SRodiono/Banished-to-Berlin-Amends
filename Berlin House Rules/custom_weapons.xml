@@ -369,7 +369,7 @@
 </weapon>
 <weapon>
 <id>71e4876a-aeb8-4faf-a270-c0b2fcee43d8</id>
-<name>Electrical Potential Enhancement (Melee)</name>
+<name>Enhanced Hunter and Sach's Organ (Melee)</name>
 <category>Unarmed</category>
 <type>Melee</type>
 <conceal>0</conceal>
@@ -390,13 +390,55 @@
 </weapon>
 <weapon>
 <id>4ad86cc8-4df2-477c-99b1-a8ec37887e5a</id>
-<name>Electrical Potential Enhancement (Ranged)</name>
+<name>Enhanced Hunter and Sach's Organ (Ranged)</name>
 <category>Unarmed</category>
 <type>Ranged</type>
 <conceal>0</conceal>
 <accuracy>Physical</accuracy>
 <range>Light Pistols</range>
 <damage>12P(e)</damage>
+<ap>-5</ap>
+<mode>0</mode>
+<rc>0</rc>
+<ammo>0</ammo>
+<avail>0</avail>
+<cost>0</cost>
+<source>SR5</source>
+<page>5</page>
+<cyberware>True</cyberware>
+<spec>Cyber Implants</spec>
+<useskill>Archery</useskill>
+</weapon>
+<weapon>
+<id>99298d12-cb2b-4ac3-884f-9e9605465086</id>
+<name>Enhanced Electrogenesis (Melee)</name>
+<category>Unarmed</category>
+<type>Melee</type>
+<conceal>0</conceal>
+<accuracy>Physical</accuracy>
+<reach>0</reach>
+<damage>({BOD}+1)S(e)</damage>
+<ap>-5</ap>
+<mode>0</mode>
+<rc>0</rc>
+<ammo>0</ammo>
+<avail>0</avail>
+<cost>0</cost>
+<source>SR5</source>
+<page>5</page>
+<cyberware>True</cyberware>
+<spec>Cyber Implants</spec>
+<useskill>Unarmed Combat</useskill>
+</weapon>
+<weapon>
+<id>8fd0e2b3-5418-4147-b09d-77f13014471d</id>
+<name>Enhanced Electrogenesis (Ranged)</name>
+<category>Unarmed</category>
+<type>Ranged</type>
+<conceal>0</conceal>
+<accuracy>Physical</accuracy>
+<range>Light Pistols</range>
+<damage>({BOD}+1)S(e)</damage>
 <ap>-5</ap>
 <mode>0</mode>
 <rc>0</rc>

@@ -61,11 +61,14 @@
       <category>Bio-Weapons</category>
       <nosecondhand />
 	  <required>
-	  <allof>
+	  <oneof>
 		<bioware>
 		<name>Hunter and Sach's Organ</name>
 		</bioware>
-	  </allof>
+		<quality>
+		<name>Electrogenesis</name>
+		</quality>
+	  </oneof>
 	  </required>
       <ess>0.2</ess>
       <capacity>0</capacity>
@@ -73,8 +76,10 @@
       <cost>10000</cost>
       <source>SR5</source>
       <page>5</page>
-		<addweapon>Electrical Potential Enhancement (Melee)</addweapon>
-		<addweapon>Electrical Potential Enhancement (Ranged)</addweapon>			
+		<addweapon>Enhanced Hunter and Sach's Organ (Melee)</addweapon>
+		<addweapon>Enhanced Hunter and Sach's Organ (Ranged)</addweapon>
+		<addweapon>Enhanced Electrogenesis (Melee)</addweapon>
+		<addweapon>Enhanced Electrogenesis (Ranged)</addweapon>
     </bioware>
 
     <bioware>
@@ -94,8 +99,8 @@
           <condition>Visual</condition>
         </specificskill>		
       </bonus>
-      <source>CF</source>
-      <page>108</page>
+      <source>SR5</source>
+      <page>5</page>
     </bioware>	
 
 <bioware>
@@ -108,14 +113,13 @@
       <avail>12</avail>
       <cost>10000</cost>
       <bonus>
- <selecttext />
         <specificskill>
           <name>Disguise</name>
           <bonus>2</bonus>
         </specificskill>		
       </bonus>
-      <source>CF</source>
-      <page>108</page>
+      <source>SR5</source>
+      <page>5</page>
     </bioware>	
 	</biowares>	
 </chummer>
