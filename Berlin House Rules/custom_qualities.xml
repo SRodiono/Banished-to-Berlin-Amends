@@ -39,7 +39,7 @@
 		</quality>
 		<quality>
 		  <id>bbc6879e-b50d-4862-b85c-a86c5b8e3b13</id>
-		  <name>Forbidden Alchemy (Mystic Adept)</name>
+		  <name>Forbidden Enchanting (Mystic Adept)</name>
 		  <karma>0</karma>
 		  <category>Negative</category>
 		  <bonus>
@@ -57,7 +57,7 @@
 		</quality>
 		<quality>
 		  <id>bbc6879e-b50d-4862-b85c-a64c3c5e4b68</id>
-		  <name>Forbidden Summoning (Mystic Adept)</name>
+		  <name>Forbidden Conjuring (Mystic Adept)</name>
 		  <karma>0</karma>
 		  <category>Negative</category>
 		  <bonus>
