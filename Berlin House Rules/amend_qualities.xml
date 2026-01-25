@@ -47,6 +47,10 @@
       <required amendoperation="remove" />
     </quality>
     <!-- End Region -->
+    <quality>
+      <name>Black Market Pipeline</name>
+      <chargenonly amendoperation="remove"></chargenonly>
+    </quality>
     <quality> Special Modifications
       <name>Special Modifications</name>
       <limit>3</limit>
@@ -367,4 +371,5 @@
     </quality>
     <!-- End Region -->
   </qualities>
+
 </chummer>
