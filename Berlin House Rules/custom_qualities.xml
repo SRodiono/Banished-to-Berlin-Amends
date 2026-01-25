@@ -20,6 +20,46 @@
 <chummer>
 	<qualities>
 		<quality>
+			<id>51824eb8-f94d-11f0-8de9-0242ac120002</id>
+			<name>Specialized Hardware</name>
+			<karma>5</karma>
+			<category>Positive</category>
+			<limit>3</limit>
+			<required>
+				<skill>
+					<name>Hardware</name>
+					<val>4</val>
+				</skill>
+			</required>
+			<forbidden>
+				<oneof>
+					<magenabled />
+					<resenabled />
+				</oneof>
+			</forbidden>
+			<source>SR5</source>
+			<page>0</page>
+		</quality>
+		<quality>
+			<id>66fe8b58-f94d-11f0-8de9-0242ac120002</id>
+			<name>Prototype Hardware</name>
+			<karma>5</karma>
+			<category>Positive</category>
+			<forbidden>
+				<oneof>
+					<magenabled />
+					<resenabled />
+				</oneof>
+			</forbidden>
+			<required>
+				<oneof>
+					<quality>Specialized Hardware</quality>
+				</oneof>
+			</required>
+			<source>SR5</source>
+			<page>0</page>
+		</quality>
+		<quality>
 		  <id>bbc6879e-b50d-4862-b85c-a86c5b5e4b68</id>
 		  <name>Forbidden Sorcery (Mystic Adept)</name>
 		  <karma>0</karma>
