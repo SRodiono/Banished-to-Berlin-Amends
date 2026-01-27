@@ -22,7 +22,7 @@
 		<!-- Region Electronic Modification -->
 		<gear>
 		  <id>8d2e4f9a-1c3b-4d87-a456-7890b12c34de</id>
-		  <name>Specialized Hardware (Attack)</name>
+		  <name>Specialized Hardware (+1 Attack) [Max 4 per Device]</name>
 		  <category>Electronic Modification</category>
 		  <rating>0</rating>
 		  <source>SR5</source>
@@ -34,7 +34,7 @@
 		</gear>
 		<gear>
 		  <id>f54a3b21-9e87-4c12-8345-67890def12ab</id>
-		  <name>Specialized Hardware (Sleaze)</name>
+		  <name>Specialized Hardware (+1 Sleaze) [Max 4 per Device]</name>
 		  <category>Electronic Modification</category>
 		  <rating>0</rating>
 		  <source>SR5</source>
@@ -46,7 +46,7 @@
 		</gear>
 		<gear>
 		  <id>3c8d9a2b-7e45-4f01-9234-5678a9b0c1de</id>
-		  <name>Specialized Hardware (Data Processing)</name>
+		  <name>Specialized Hardware (+1 Data Processing) [Max 4 per Device]</name>
 		  <category>Electronic Modification</category>
 		  <rating>0</rating>
 		  <source>SR5</source>
@@ -58,7 +58,7 @@
 		</gear>
 		<gear>
 		  <id>a12b3c4d-5e6f-4a78-9123-4567890abcde</id>
-		  <name>Specialized Hardware (Firewall)</name>
+		  <name>Specialized Hardware (+1 Firewall) [Max 4 per Device]</name>
 		  <category>Electronic Modification</category>
 		  <rating>0</rating>
 		  <source>SR5</source>
@@ -70,7 +70,62 @@
 		</gear>
 		<gear>
 		  <id>e6f7890a-1b2c-4d3e-8f45-6789012345ab</id>
-		  <name>Specialized Hardware (Device Rating)</name>
+		  <name>Specialized Hardware (+1 Device Rating) [1 per Device]</name>
+		  <category>Electronic Modification</category>
+		  <rating>0</rating>
+		  <source>SR5</source>
+		  <page>0</page>
+		  <avail>0</avail>
+		  <cost>0</cost>
+		  <addoncategory>Electronic Modification</addoncategory>
+		</gear>
+		<gear>
+		  <id>7e2f3a91-9b6c-4d87-b3e4-1f2a6c8d90ab</id>
+		  <name>Specialized Hardware (+6 Slaved Devices)</name>
+		  <category>Electronic Modification</category>
+		  <rating>0</rating>
+		  <source>SR5</source>
+		  <page>0</page>
+		  <avail>0</avail>
+		  <cost>0</cost>
+		  <addoncategory>Electronic Modification</addoncategory>
+		</gear>
+		<gear>
+		  <id>c4b8a5e2-1f7d-49a9-8c63-5e2b7d91f406</id>
+		  <name>Specialized Hardware (Agent Enabled) [1 per Device]</name>
+		  <category>Electronic Modification</category>
+		  <rating>0</rating>
+		  <source>SR5</source>
+		  <page>0</page>
+		  <avail>0</avail>
+		  <cost>0</cost>
+		  <addoncategory>Electronic Modification</addoncategory>
+		</gear>
+		<gear>
+		  <id>9d0e6c7a-4f5b-4e18-b2a3-8c1f6d7e9054</id>
+		  <name>Specialized Hardware (Natural Mod Slot) [1 per Device]</name>
+		  <category>Electronic Modification</category>
+		  <rating>0</rating>
+		  <source>SR5</source>
+		  <page>0</page>
+		  <avail>0</avail>
+		  <cost>0</cost>
+		  <addoncategory>Electronic Modification</addoncategory>
+		</gear>
+		<gear>
+		  <id>f2a9c4e7-6b1d-4a83-9e5c-8d0f3b7a1c62</id>
+		  <name>Specialized Hardware (-2 Noise Reduction)</name>
+		  <category>Electronic Modification</category>
+		  <rating>0</rating>
+		  <source>SR5</source>
+		  <page>0</page>
+		  <avail>0</avail>
+		  <cost>0</cost>
+		  <addoncategory>Electronic Modification</addoncategory>
+		</gear>
+		<gear>
+		  <id>3b7e9c4a-2d8f-4b61-9a0e-5f1c6d8e7b42</id>
+		  <name>Specialized Hardware (+2 Program Slots)</name>
 		  <category>Electronic Modification</category>
 		  <rating>0</rating>
 		  <source>SR5</source>
