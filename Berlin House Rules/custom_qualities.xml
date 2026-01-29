@@ -18,7 +18,42 @@
     https://github.com/chummer5a/chummer5a
 -->
 <chummer>
-	<qualities>
+		<quality>
+		    <id>64a6f533-8cc7-4785-b79b-13bb5bc04531</id>
+		      <name>Banisher</name>
+		      <karma>10</karma>
+			  	<doublecareer>False</doublecareer>
+		      <category>Positive</category>
+			 <required>
+		        <oneof>
+		          <skill>
+		            <name>Banishing</name>
+		            <val>4</val>
+		          </skill>
+		        </oneof>
+		      </required>	  
+		      <source>SR5</source>
+		    <page>5</page>
+			<notes>Characters with this quality take drain equal to spirit's hits instead of hits times 2 when performing a banishing test.</notes>
+		</quality>
+		<quality>
+		    <id>e1ac21ba-97cc-4476-80e2-0483fb0bee9a</id>
+		      <name>Advanced Banisher</name>
+		      <karma>5</karma>
+			  	<doublecareer>False</doublecareer>
+		      <category>Positive</category>
+			 <required>
+		        <oneof>
+		          <skill>
+		            <name>Banishing</name>
+		            <val>6</val>
+		          </skill>
+		        </oneof>
+		      </required>	  
+		      <source>SR5</source>
+		    <page>5</page>
+			<notes>Characters with this quality apply a dice pool penalty to spirit's actions and defence tests equal to net hits from banishing test; penalty lasts for 2 combat turns.</notes>
+		</quality>
 		<quality>
 			<id>fabe5461-999f-4066-8e18-3a5768d009f2</id>
 			<name>Purity Bonus (Adept)</name>
