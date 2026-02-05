@@ -19,6 +19,22 @@
 -->
 <chummer>
   <accessories>
+   <accessory>
+      <id>49ebef39-0ce4-437a-b5c0-c35a952288f2</id>
+      <name>Ammo is Handloaded (AP)</name>
+      <mount />
+      <source>HT</source>
+      <page>189</page>
+      <ap>-1</ap>
+    </accessory>
+    <accessory>
+      <id>62b47e95-6c82-413a-b100-37adfc2df5ab</id>
+      <name>Ammo is Handloaded (Damage)</name>
+      <mount />
+      <source>HT</source>
+      <page>189</page>
+      <damage>1</damage>
+    </accessory>
     <accessory>
       <id>4dc36cf7-5d17-4e6c-a58b-f416cd0318b0</id>
       <name>Laser Sight (Bow)</name>
@@ -657,3 +673,4 @@
 </accessory>
 </accessories>
 </chummer>
+
