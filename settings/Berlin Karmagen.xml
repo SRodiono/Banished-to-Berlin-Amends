@@ -233,7 +233,7 @@
 	<maxmartialarts>1</maxmartialarts>
 	<maxmartialtechniques>5</maxmartialtechniques>
 	<nuyencarryover>5000</nuyencarryover>
-	<nuyenmaxbp>200</nuyenmaxbp>
+	<nuyenmaxbp>235</nuyenmaxbp>
 	<bannedwaregrades>
 		<grade>Omegaware</grade>
 		<grade>Gammaware</grade>
@@ -241,4 +241,5 @@
 		<grade>Betaware</grade>
 	</bannedwaregrades>
 	<redlinerexclusion />
+
 </settings>
