@@ -20,6 +20,101 @@
 <chummer>
 	<qualities>
 		<quality>
+		  <id>bbc6879e-b50d-4862-b85c-a86c5b5e4b68</id>
+		  <name>Forbidden Sorcery (Mystic Adept)</name>
+		  <karma>0</karma>
+		  <category>Negative</category>
+		  <bonus>
+			<skilldisable>Spellcasting</skilldisable>
+			<skilldisable>Counterspelling</skilldisable>
+			<skilldisable>Ritual Spellcasting</skilldisable>
+		  </bonus>
+		  <required>
+			<allof>
+				<quality>Mystic Adept</quality>
+			</allof>
+		  </required>
+		  <source>SR5</source>
+		  <page>1</page>
+		</quality>
+		<quality>
+		  <id>bbc6879e-b50d-4862-b85c-a86c5b8e3b13</id>
+		  <name>Forbidden Alchemy (Mystic Adept)</name>
+		  <karma>0</karma>
+		  <category>Negative</category>
+		  <bonus>
+			<skilldisable>Alchemy</skilldisable>
+			<skilldisable>Disenchanting</skilldisable>
+			<skilldisable>Artificing</skilldisable>
+		  </bonus>
+		  <required>
+			<allof>
+				<quality>Mystic Adept</quality>
+			</allof>
+		  </required>
+		  <source>SR5</source>
+		  <page>1</page>
+		</quality>
+		<quality>
+		  <id>bbc6879e-b50d-4862-b85c-a64c3c5e4b68</id>
+		  <name>Forbidden Conjuring (Mystic Adept)</name>
+		  <karma>0</karma>
+		  <category>Negative</category>
+		  <bonus>
+			<skilldisable>Summoning</skilldisable>
+			<skilldisable>Banishing</skilldisable>
+			<skilldisable>Binding</skilldisable>
+		  </bonus>
+		  <required>
+			<allof>
+				<quality>Mystic Adept</quality>
+			</allof>
+		  </required>
+		  <source>SR5</source>
+		  <page>1</page>
+		</quality>
+		<quality>
+		  <id>bbc6879e-b50d-4862-b85c-a86c5b7e8d26</id>
+		  <name>Dedicated Alchemist</name>
+		  <karma>10</karma>
+		  <category>Positive</category>
+		  <canbuywithspellpoints>True</canbuywithspellpoints>
+		  <costdiscount>
+			<required>
+			  <oneof>
+				<quality>Apprentice</quality>
+				<quality>Aspected Magician</quality>
+				<quality>Aware</quality>
+				<quality>Enchanter</quality>
+				<quality>Explorer</quality>
+			  </oneof>
+			</required>
+			<value>-5</value>
+		  </costdiscount>
+		  <doublecareer>False</doublecareer>
+		  <bonus>
+			<freespells skill="Alchemy" />
+			<newspellkarmacost type="Preparations">-1</newspellkarmacost>
+			<skilldisable>Spellcasting</skilldisable>
+		  </bonus>
+		  <required>
+			<allof>
+			  <attribute>
+				<name>MAG</name>
+				<total>1</total>
+			  </attribute>
+			</allof>
+			<oneof>
+			  <skill>
+				<name>Alchemy</name>
+				<val>1</val>
+			  </skill>
+			</oneof>
+		  </required>
+		  <source>SR5</source>
+		  <page>1</page>
+		</quality>
+		<quality>
 			<id>51824eb8-f94d-11f0-8de9-0242ac120002</id>
 			<name>Specialized Hardware</name>
 			<karma>5</karma>
