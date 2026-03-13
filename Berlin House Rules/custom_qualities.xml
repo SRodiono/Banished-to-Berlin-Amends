@@ -20,6 +20,19 @@
 <chummer>
 	<qualities>
 		<quality>
+		  <id>9cfe3a8e-43be-4c3c-bf04-72701b2bff7f</id>
+		  <name>Toxin Accelerator</name>
+		  <karma>5</karma>
+		  <category>Positive</category>
+		  <required>
+			<allof>
+				<quality>Poisoner</quality>
+			</allof>
+		  </required>
+		  <source>SR5</source>
+		  <page>1</page>
+		</quality>
+		<quality>
 		  <id>bbc6879e-b50d-4862-b85c-a86c5b5e4b68</id>
 		  <name>Forbidden Sorcery (Mystic Adept)</name>
 		  <karma>0</karma>
