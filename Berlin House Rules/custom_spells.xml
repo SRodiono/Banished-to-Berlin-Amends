@@ -61,5 +61,21 @@
       <type>P</type>
     </spell>	
 	
+	<!-- Illusion -->
+
+    <spell>
+      <id>9bf0080a-08a2-400e-9c11-3b844192ced8</id>
+      <name>Picture Perfect</name>
+      <page>5</page>
+      <source>SR5</source>
+      <category>Illusion</category>
+      <descriptor>Realistic, Single Sense</descriptor>
+      <duration>S</duration>
+      <dv>F-2</dv>
+      <range>Touch</range>
+      <type>P</type>
+    </spell>
+	
 	</spells>
 </chummer>
+
