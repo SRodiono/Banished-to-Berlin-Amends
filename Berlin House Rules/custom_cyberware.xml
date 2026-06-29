@@ -21,13 +21,8 @@
   <cyberwares>
 	  <!-- Region SR4 Conversion -->
 <cyberware>
-      <id>a9a59fbf-7002-4f94-8251-b5050b68b72e</id>
-      <name>Encephalon 1</name>
-      <limit>False</limit>
-      <category>	  <!-- Region SR4 Conversion -->
-	<cyberware>
       <id>1f80ef3b-a9e5-471d-a4c0-f8e543e1d2a9</id>
-      <name>Encephalon 2</name>
+      <name>Encephalon</name>
       <limit>False</limit>
       <category>Headware</category>
       <ess>Rating * 0.75</ess>
