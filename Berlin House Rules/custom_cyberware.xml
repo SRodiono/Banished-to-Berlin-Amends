@@ -24,46 +24,32 @@
       <id>a9a59fbf-7002-4f94-8251-b5050b68b72e</id>
       <name>Encephalon 1</name>
       <limit>False</limit>
-      <category>Headware</category>
-      <ess>0.75</ess>
-      <capacity>0</capacity>
-      <avail>8</avail>
-      <cost>30000</cost>
-      <rating>1</rating>
-        <bonus>
-        <skilllinkedattribute>
-          <name>LOG</name>
-          <bonus>1</bonus>
-        </skilllinkedattribute>
-      </bonus>
-      <notes>Encephalon: This expert-system microprocessor is hardwired directly into the user’s cortex, augmenting its user’s information-processing abilities and taking over minor and redundant “background” processes, enabling the user to concentrate on more important cognitive tasks, especially those involving processing AR or VR input. A Rating 1 encephalon applies a +1 dice pool bonus to all Active Skill Tests using skills linked to Logic (the bonus does not apply to Logic-linked Knowledge skills). This bonus applies to Matrix tests when using these skills as well.</notes>
-
-      <source>R5</source>
-      <page></page>
-    </cyberware> <cyberware>
+      <category>	  <!-- Region SR4 Conversion -->
+	<cyberware>
       <id>1f80ef3b-a9e5-471d-a4c0-f8e543e1d2a9</id>
       <name>Encephalon 2</name>
       <limit>False</limit>
       <category>Headware</category>
-      <ess>1.5</ess>
+      <ess>Rating * 0.75</ess>
       <capacity>0</capacity>
       <avail>8</avail>
-      <cost>75000</cost>
+      <cost>FixedValues(30000,75000)</cost>
+      <minrating>1</minrating>
       <rating>2</rating>
-        <bonus>
+      <bonus>
         <skilllinkedattribute>
           <name>LOG</name>
           <bonus>1</bonus>
         </skilllinkedattribute>
             <skillgroup>
                 <name>Cracking</name>
-                <bonus>1</bonus>
+                <bonus>FixedValues(0,1)</bonus>
             </skillgroup>
             <skillgroup>
                 <name>Electronics</name>
-                <bonus>1</bonus>
+                <bonus>FixedValues(0,1)</bonus>
             </skillgroup>
-        </bonus>
+       </bonus>
      <notes>Encephalon: This expert-system microprocessor is hardwired directly into the user’s cortex, augmenting its user’s information-processing abilities and taking over minor and redundant “background” processes, enabling the user to concentrate on more important cognitive tasks, especially those involving processing AR or VR input. A Rating 1 encephalon applies a +1 dice pool bonus to all Active Skill Tests using skills linked to Logic (the bonus does not apply to Logic-linked Knowledge skills). This bonus applies to Matrix tests when using these skills as well. A Rating 2 encephalon provides the same bonus and provides an additional +1 dice pool modifier to skill tests using skills from the Cracking and Electronics skill groups when using augmented or virtual reality.</notes>
       <source>R5</source>
       <page>1</page>
