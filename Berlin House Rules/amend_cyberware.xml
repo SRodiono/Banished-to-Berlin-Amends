@@ -22,6 +22,19 @@
 		<category blackmarket="Cyberware">Cybergun</category>
 	</categories>
   <cyberwares>
+	<cyberware>  <!-- Small LED Tattoo  -->
+      <id>1c89a29c-ce58-483f-8777-b5b1f6a733c1</id>
+      <capacity>0</capacity>
+    </cyberware>
+    <cyberware>  <!-- Medium LED Tattoo  -->
+      <id>a5eac202-c61b-4757-826b-f4ae00c8b87f</id>
+      <capacity>0</capacity>
+    </cyberware>
+    <cyberware>  <!-- Big LED Tattoo  -->
+      <id>5578f51e-fb72-4247-9126-a4b626a12308</id>
+      <capacity>0</capacity>
+    </cyberware>
+
     <cyberware>
 		<name>Wired Reflexes</name>
 		<ess>Rating * 1.5</ess>
